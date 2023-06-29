@@ -1,4 +1,15 @@
-### Hi there 👋
+# Olá! meu nome é Fabio Vital.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianne-dutra-0086801a1/)](https://www.linkedin.com/in/fabio-vital-7b98b1233/)
+
+
+### Sobre mim
+Desenvolvedor de Software | Java | SQL | Spring Boot | JUnit
+
+<div>
+ <a href="https://github.com/FabioVLucena">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovlucena&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovlucena&layout=compact&langs_count=7&theme=algolia"/>                        
+</div>
 
 <!--
 **FabioVLucena/FabioVLucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
