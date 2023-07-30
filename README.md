@@ -3,7 +3,7 @@
 
 
 ### Sobre mim
-Desenvolvedor de Software | Java | SQL | Spring Boot | JUnit
+Desenvolvedor de Software | Java | SQL | Spring Boot | Quarkus | Hibernate | JUnit
 
 <div>
  <a href="https://github.com/FabioVLucena">
