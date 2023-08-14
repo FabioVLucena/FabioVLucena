@@ -8,7 +8,7 @@ Desenvolvedor de Software | Java | SQL | Spring Boot | Quarkus | Hibernate | JUn
 <div>
  <a href="https://github.com/FabioVLucena">
  <img height="180em" src="https://readme-stats-qlusq8ce4-fabiovlucena.vercel.app/api?username=fabiovlucena&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
- <img height="180em" src="https://readme-stats-qlusq8ce4-fabiovlucena.vercel.app/api/top-langs/?username=fabiovlucena&layout=compact&langs_count=7&theme=algolia"/>                       
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovlucena&layout=compact&langs_count=7&theme=algolia"/>                       
 </div>
 
 <!--
