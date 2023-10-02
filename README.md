@@ -7,7 +7,8 @@ Desenvolvedor Back-end | Java | Spring Boot | Quarkus
 
 <div>
  <a href="https://github.com/FabioVLucena">
- <img width=600 src="https://readme-stats-qlusq8ce4-fabiovlucena.vercel.app/api?username=fabiovlucena&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovlucena&show_icons=true&theme=algolia&include_all_commits=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovlucena&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <!--
