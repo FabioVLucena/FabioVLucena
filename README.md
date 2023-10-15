@@ -3,7 +3,7 @@
 
 
 ### Sobre mim
-Desenvolvedor Back-end | Java | Spring Boot | Quarkus
+Desenvolvedor Back-end | Java | Spring Boot
 
 <div>
  <a href="https://github.com/FabioVLucena">
