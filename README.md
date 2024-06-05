@@ -3,7 +3,7 @@
 
 
 ### Sobre mim
-Desenvolvedor Back-end | Java | Spring Boot
+Desenvolvedor Full Stack | Java | Spring | React
 
 <div>
  <a href="https://github.com/FabioVLucena">
